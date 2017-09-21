@@ -1,0 +1,39 @@
+CSC220 Programming Project#1
+============================
+ 
+Due Date: 11:55pm, Sunday, 10/16, upload textfile MyFraction.java to ilearn
+
+- You need to implement MyFraction class which is within package PJ1
+  See PJ1/MyFraction.java and PJ1/MyFractionInterface.java for specifications
+
+- Use PJ1_Test.java to test correctness of your proggram
+
+- Compile programs (you are in directory containing Readme file):
+	
+  javac PJ1/*.java
+  javac PJ1_Test.java
+
+- Run programs (you are in directory containing Readme file):
+
+  // Run tests in MyFraction class
+  java PJ1.MyFraction	
+
+  // Run main test program
+  java PJ1_Test		
+
+- Bonus (25%): Implement GUI test program
+  
+  Before implemeting GUI test program, 
+  your program must work for all test cases using PJ1_Test.
+
+  Talk to me before you start this part. 
+  
+	
+***************************************************************
+  
+Important: please look at "Cheating and Plagiarism Policy"
+           http://cs.sfsu.edu/cheating-and-plagiarism-policy
+  
+Warning: Don't copy projects from previous semestsres and others!
+  
+
